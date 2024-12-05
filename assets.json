@@ -99,7 +99,17 @@
       "logo": "https://asset.ston.fi/img/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko/bdccc8bee5f07e419ab6f36d8d08b1503b574e8ea0f7fdc6afc63cc3bf2f6f70",
       "kind": "Jetton",
       "active": 1733331600
-    }
+    },
+    {
+        "id": 11,
+        "contract": "EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_",
+        "name": "Memeerkat",
+       "searchSymbol": "MKAT",
+        "symbol": "MKAT",
+        "logo": "https://asset.ston.fi/img/EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_/7a226ba04d7d3bfd00fda3ffc339e43a7fdf754be42f2abc0cc0c138d42a3cb9",
+        "kind": "Jetton",
+        "active": 1733331600
+      }
   
  
 ]
