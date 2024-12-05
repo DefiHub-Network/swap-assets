@@ -89,6 +89,17 @@
     "logo": "https://asset.ston.fi/img/EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo/7921dea882257a5f5df2c1ef082df3904d648078b7b4536203dfa729bafd9b91",
     "kind": "Jetton",
     "active": 1733331600
-  }
+  },
+  {
+      "id": 10,
+      "contract": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
+      "name": "Resistance Dog",
+     "searchSymbol": "REDO",
+      "symbol": "REDO",
+      "logo": "https://asset.ston.fi/img/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko/bdccc8bee5f07e419ab6f36d8d08b1503b574e8ea0f7fdc6afc63cc3bf2f6f70",
+      "kind": "Jetton",
+      "active": 1733331600
+    }
+  
  
 ]
