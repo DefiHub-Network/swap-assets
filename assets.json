@@ -91,25 +91,123 @@
     "active": 1733331600
   },
   {
-      "id": 10,
-      "contract": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
-      "name": "Resistance Dog",
-     "searchSymbol": "REDO",
-      "symbol": "REDO",
-      "logo": "https://asset.ston.fi/img/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko/bdccc8bee5f07e419ab6f36d8d08b1503b574e8ea0f7fdc6afc63cc3bf2f6f70",
-      "kind": "Jetton",
-      "active": 1733331600
-    },
-    {
-        "id": 11,
-        "contract": "EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_",
-        "name": "Memeerkat",
-       "searchSymbol": "MKAT",
-        "symbol": "MKAT",
-        "logo": "https://asset.ston.fi/img/EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_/7a226ba04d7d3bfd00fda3ffc339e43a7fdf754be42f2abc0cc0c138d42a3cb9",
-        "kind": "Jetton",
-        "active": 1733331600
-      }
-  
- 
+    "id": 10,
+    "contract": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
+    "name": "Resistance Dog",
+    "searchSymbol": "REDO",
+    "symbol": "REDO",
+    "logo": "https://asset.ston.fi/img/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko/bdccc8bee5f07e419ab6f36d8d08b1503b574e8ea0f7fdc6afc63cc3bf2f6f70",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 11,
+    "contract": "EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_",
+    "name": "Memeerkat",
+    "searchSymbol": "MKAT",
+    "symbol": "MKAT",
+    "logo": "https://asset.ston.fi/img/EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_/7a226ba04d7d3bfd00fda3ffc339e43a7fdf754be42f2abc0cc0c138d42a3cb9",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 12,
+    "contract": "EQCPqhGBZCOtQUZx-k5DcEGp5XQZkdfQOUfqWK6Z0Lo6vdw7",
+    "name": "COSA NOSTRA",
+    "searchSymbol": "COSA",
+    "symbol": "COSA",
+    "logo": "https://asset.ston.fi/img/EQCPqhGBZCOtQUZx-k5DcEGp5XQZkdfQOUfqWK6Z0Lo6vdw7/435db99d960a1f15545270733bf17b33e152f7e4251a278d9fcaa95f215d4338",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 13,
+    "contract": "EQB_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3",
+    "name": "Dark",
+    "searchSymbol": "DARK",
+    "symbol": "DARK",
+    "logo": "https://asset.ston.fi/img/EQB_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3/bf1610c5748061b600b4890eaba824680ca8e2d4d4821bdd9152ab6cf77c7d07",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 14,
+    "contract": "EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB",
+    "name": "Us Usach",
+    "searchSymbol": "USACH",
+    "symbol": "USACH",
+    "logo": "https://asset.ston.fi/img/EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB/49a88c40eacd4d5d889d9f6eb642a7d89685222f5ef4d26c9047f639e7c7df05",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 15,
+    "contract": "EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d",
+    "name": "Vilarso",
+    "searchSymbol": "VILARSO",
+    "symbol": "VILARSO",
+    "logo": "https://asset.ston.fi/img/EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d/d2f56f008b20cd386ce658fc3c0bcb49d7e2770f11b66f762fc0b9b336b58e3f",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 16,
+    "contract": "EQAhmDhWMKE_eZX0lO3mx5JSQc-W2O-IlQ7BaXLMioyeEzT1",
+    "name": "TVM",
+    "searchSymbol": "TVM",
+    "symbol": "TVM",
+    "logo": "https://asset.ston.fi/img/EQAhmDhWMKE_eZX0lO3mx5JSQc-W2O-IlQ7BaXLMioyeEzT1/874903bc1269129df51d7e79eb334da844d4a72b695757b8dc4a6032d2bce942",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 17,
+    "contract": "EQA20ynxJzJrhahBncnTdWu87NNkuKL_T81DAGmihpIDdWsA",
+    "name": "LIQUIDATION",
+    "searchSymbol": "LIQUID",
+    "symbol": "LIQUID",
+    "logo": "https://asset.ston.fi/img/EQA20ynxJzJrhahBncnTdWu87NNkuKL_T81DAGmihpIDdWsA/4a7caeffb7d7b71fe9af81f9b7067a7203f41a3f2e5cb625e44f8f4ba03ce330",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 18,
+    "contract": "EQAbEut7rrUaSmkNuG8sfPmqtwTLdmszL-lnQijmCXiLQ5O9",
+    "name": "ForU AI",
+    "searchSymbol": "UWU",
+    "symbol": "UWU",
+    "logo": "https://asset.ston.fi/img/EQAbEut7rrUaSmkNuG8sfPmqtwTLdmszL-lnQijmCXiLQ5O9/3fbd7b7f03c4b889082940c6fb4fc5e207c437902dcf68d632a8a38b5a6459ae",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 19,
+    "contract": "EQA44OGUEsdesnOQ_Ws3BKiAwpRrm9Ai5T_2jI9My6p6Eu3-",
+    "name": "cryptoOKO",
+    "searchSymbol": "OKO",
+    "symbol": "OKO",
+    "logo": "https://asset.ston.fi/img/EQA44OGUEsdesnOQ_Ws3BKiAwpRrm9Ai5T_2jI9My6p6Eu3-/b55b7ef181c2cf2b5723e603b74d8c9b36ede989305cdbfde5e77f4a9014e8dd",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 20,
+    "contract": "EQAZzvY6tSq2IghR8S3mXgc387Wl6yX54MVQdnFJ2EHQ94CB",
+    "name": "🔴🟢Triggered DRAGO",
+    "searchSymbol": "DRAGO",
+    "symbol": "DRAGO",
+    "logo": "https://asset.ston.fi/img/EQAZzvY6tSq2IghR8S3mXgc387Wl6yX54MVQdnFJ2EHQ94CB/df499c95a6e15c869b7791efb18ccb9278a997d01ad89b038c7ccc9586fd0c78",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 21,
+    "contract": "EQC-OHxhI9r5ojKf6QMLFjhQrKoawN1thhHFCvImINhfK40C",
+    "name": "TETRIX",
+    "searchSymbol": "TETRIX",
+    "symbol": "TETRIX",
+    "logo": "https://asset.ston.fi/img/EQC-OHxhI9r5ojKf6QMLFjhQrKoawN1thhHFCvImINhfK40C/1d2a247a49edabacca2a278bdf54abe92ec96d1fac96bcf99b0299d97a1dd2e7",
+    "kind": "Jetton",
+    "active": 1733331600
+  }
 ]
