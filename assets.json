@@ -209,5 +209,15 @@
     "logo": "https://asset.ston.fi/img/EQC-OHxhI9r5ojKf6QMLFjhQrKoawN1thhHFCvImINhfK40C/1d2a247a49edabacca2a278bdf54abe92ec96d1fac96bcf99b0299d97a1dd2e7",
     "kind": "Jetton",
     "active": 1733331600
+  },
+  {
+    "id": 22,
+    "contract": "EQBsTwY-0y5e1i6eVLklvkLwS2QJMllwWP7c4uq0ni6qxAvE",
+    "name": "PUMPCORN",
+    "searchSymbol": "PUMPCORN",
+    "symbol": "PUMPCORN",
+    "logo": "https://asset.ston.fi/img/EQBsTwY-0y5e1i6eVLklvkLwS2QJMllwWP7c4uq0ni6qxAvE/8b7ca59e4d7b59fa9581b4c1e36df4929a27660f251f13c6adb15664676026d6",
+    "kind": "Jetton",
+    "active": 1733331600
   }
 ]
