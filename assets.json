@@ -219,5 +219,35 @@
     "logo": "https://asset.ston.fi/img/EQBsTwY-0y5e1i6eVLklvkLwS2QJMllwWP7c4uq0ni6qxAvE/8b7ca59e4d7b59fa9581b4c1e36df4929a27660f251f13c6adb15664676026d6",
     "kind": "Jetton",
     "active": 1733331600
+  },
+  {
+    "id": 23,
+    "contract": "EQCivShe-nigManAil8iRxwKsp74cA0q0a00kmPBtLfRHQgB",
+    "name": "Mihaylets Community",
+    "searchSymbol": "MCOM",
+    "symbol": "MCOM",
+    "logo": "https://asset.ston.fi/img/EQCivShe-nigManAil8iRxwKsp74cA0q0a00kmPBtLfRHQgB/33f02ce10ce9d0c7ff85f472e1a6432d9b3871f8a9d0523eee8f0603f445dffc",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 24,
+    "contract": "EQBgI-rl6SzhJp5Rtoqg0JlWsgPH4rnVkU6EAnD1yvOuzMPG",
+    "name": "SuperWonton",
+    "searchSymbol": "SW",
+    "symbol": "SW",
+    "logo": "https://asset.ston.fi/img/EQBgI-rl6SzhJp5Rtoqg0JlWsgPH4rnVkU6EAnD1yvOuzMPG/f136e3766487c20c2a9ed48a3ef1fca9d8963841d1b9a1650ac234df5a0a7451",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 25,
+    "contract": "EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2",
+    "name": "BananaCycle",
+    "searchSymbol": "BANC",
+    "symbol": "BANC",
+    "logo": "https://asset.ston.fi/img/EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2/63e3cbe2463f3f37d363ba8efba8621f7139ef635fa8526647aca3c6e5b10172",
+    "kind": "Jetton",
+    "active": 1733331600
   }
 ]
