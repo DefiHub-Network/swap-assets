@@ -249,5 +249,15 @@
     "logo": "https://asset.ston.fi/img/EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2/63e3cbe2463f3f37d363ba8efba8621f7139ef635fa8526647aca3c6e5b10172",
     "kind": "Jetton",
     "active": 1733331600
+  },
+  {
+    "id": 26,
+    "contract": "EQAx9EgxX-hz6ShWnpiSocCLD8a7J16Lg4iFTPBNATAF5btX",
+    "name": "FishUP",
+    "searchSymbol": "FISHUP",
+    "symbol": "FISHUP",
+    "logo": "https://asset.ston.fi/img/EQAx9EgxX-hz6ShWnpiSocCLD8a7J16Lg4iFTPBNATAF5btX/6d946de37aa483d10fee152d56a15ce1232279e21b9f89e0220d614f767328fe",
+    "kind": "Jetton",
+    "active": 1733331600
   }
 ]
