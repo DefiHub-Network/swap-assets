@@ -270,5 +270,45 @@
     "logo": "https://asset.ston.fi/img/EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2/63e3cbe2463f3f37d363ba8efba8621f7139ef635fa8526647aca3c6e5b10172",
     "kind": "Jetton",
     "active": 1733331600
+  },
+  {
+    "id": 28,
+    "contract": "EQCQoiC8ss0QIjpTz-RI89OzmyXxxt0CTOsGueRd9Vp-0Dy8",
+    "name": "Chloe",
+    "searchSymbol": "CHLOE",
+    "symbol": "CHLOE",
+    "logo": "https://asset.ston.fi/img/EQCQoiC8ss0QIjpTz-RI89OzmyXxxt0CTOsGueRd9Vp-0Dy8/d95255b5036133c479394af9793f1273cc226f226183232638d6ed1b26c844e1",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 29,
+    "contract": "EQAlKuU3JVwD1BcsSqLfigW75kbtPxnpo6Uur4GjBvSfgTTD",
+    "name": "AliveBoard",
+    "searchSymbol": "ALIVE",
+    "symbol": "ALIVE",
+    "logo": "https://asset.ston.fi/img/EQAlKuU3JVwD1BcsSqLfigW75kbtPxnpo6Uur4GjBvSfgTTD/ee2585461154f6dbfd048946ea3c162a48b39ccbf4041f129ccdf008bef637b5",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 30,
+    "contract": "EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz",
+    "name": "FPI Bank",
+    "searchSymbol": "FPIBANK",
+    "symbol": "FPIBANK",
+    "logo": "https://asset.ston.fi/img/EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz/1e2290db5683971fd4d63e4698697596da7f39dd54d62613f06ca2baa7445b8d",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 31,
+    "contract": "EQBgjnb8FVAHlxqt79uImpEDzkVN8vvQ67hobyUsh-T7CEUg",
+    "name": "Mr. Bark President",
+    "searchSymbol": "BARK47",
+    "symbol": "BARK47",
+    "logo": "https://asset.ston.fi/img/EQBgjnb8FVAHlxqt79uImpEDzkVN8vvQ67hobyUsh-T7CEUg/5e581a7a038ae88f172c30983cbef1159cab8c481cec821f480bc3aa46c0eda7",
+    "kind": "Jetton",
+    "active": 1733331600
   }
 ]
