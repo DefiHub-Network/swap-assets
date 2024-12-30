@@ -310,5 +310,25 @@
     "logo": "https://asset.ston.fi/img/EQBgjnb8FVAHlxqt79uImpEDzkVN8vvQ67hobyUsh-T7CEUg/5e581a7a038ae88f172c30983cbef1159cab8c481cec821f480bc3aa46c0eda7",
     "kind": "Jetton",
     "active": 1733331600
+  },
+  {
+    "id": 32,
+    "contract": "EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd",
+    "name": "SOKOROCKET",
+    "searchSymbol": "FROY",
+    "symbol": "FROY",
+    "logo": "https://asset.ston.fi/img/EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd/b9554be0144bcb58d08986668c045d0022f2b306610b09f4cfb7be1ff67da68b",
+    "kind": "Jetton",
+    "active": 1733331600
+  },
+  {
+    "id": 33,
+    "contract": "EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P",
+    "name": "AiPhABeT",
+    "searchSymbol": "APHBT",
+    "symbol": "APHBT",
+    "logo": "https://asset.ston.fi/img/EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P/5071dc0784d51d9c43a5db1bb7e80d38ebfed7606770c4598912cdebcf979323",
+    "kind": "Jetton",
+    "active": 1733331600
   }
 ]

@@ -14,5 +14,29 @@
       "EQDH6F8bXL_ZQtT9zfYZinT2NhsrcXa1VI5koO98slz8rNjs"
     ],
     "chartId": "eqbspqxhea5vgaf3v34u1y9setxtg5hpxyskzwid5219alyd"
+  },
+  {
+    "pairName": "TON-MAJOR",
+    "pairToken": [
+      "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
+      "EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR"
+    ],
+    "chartId": "eqcitmol3t2mxi476jbvqa01edqmbriz3xp_ftgdqewuwvuk"
+  },
+  {
+    "pairName": "USDT-MAJOR",
+    "pairToken": [
+      "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+      "EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR"
+    ],
+    "chartId": "eqa_zm3aibxsi0a79fz7zacgaepz3su7b-r5anqjzxiocyj4"
+  },
+  {
+    "pairName": "TON-NOT",
+    "pairToken": [
+      "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
+      "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT"
+    ],
+    "chartId": "eqcay8ifl2s6lrbmbjey35liumxpc8jfitwg4tl7lbgrsor2"
   }
 ]
