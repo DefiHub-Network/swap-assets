@@ -2,6 +2,7 @@
   {
     "id": 1,
     "contract": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
+    "jetton": "native",
     "name": "TON",
     "searchSymbol": "TON",
     "symbol": "TON",
@@ -367,6 +368,7 @@
   {
     "id": 34,
     "contract": "EQDgx6k9B27D_-ccmbrho2a1teb0hfgJekZYZiRJmRLm5q_j",
+    "jetton": "jetton:0:e0c7a93d076ec3ffe71c99bae1a366b5b5e6f485f8097a46586624499912e6e6",
     "name": "TELEMON",
     "searchSymbol": "TELEMON",
     "symbol": "TELEMON",
