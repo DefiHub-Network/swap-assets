@@ -7,7 +7,8 @@
     "symbol": "TON",
     "logo": "https://asset.ston.fi/img/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c/4ecd4687e0b5b8ff21a7fbe03f9d281c26a2dc13eac7b7d16048cc693fe0ec39",
     "kind": "Ton",
-    "active": 1732986000
+    "active": 1732986000,
+    "dex": "NATIVE"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "symbol": "COCO",
     "logo": "https://asset.ston.fi/img/EQA0bQJSzqWkJ2p4szQpY7QWag2BoHNQQOalps7paHPXyvDF/a28006b6ae843b3e9e203087e0f5a899c9eb73f139e48ef08ea8ea2288529026",
     "kind": "Jetton",
-    "active": 1732986000
+    "active": 1732986000,
+    "dex": "STONFI"
   },
   {
     "id": 26,
@@ -28,7 +30,8 @@
     "logo": "https://asset.ston.fi/img/EQDH6F8bXL_ZQtT9zfYZinT2NhsrcXa1VI5koO98slz8rNjs/20a4090eb90132b175b1f270d14204c288d5e968d5642b76334908fd9a78b6fc",
     "kind": "Jetton",
     "slippage": 5,
-    "active": 1734091200
+    "active": 1734091200,
+    "dex": "STONFI"
   },
   {
     "id": 27,
@@ -38,7 +41,8 @@
     "symbol": "PINGO",
     "logo": "https://asset.ston.fi/img/EQCRWpQQmfSglpLp6D5Xebix50AStBxjfQQNkssFP_IsiQc3/ee1df0e5e2b3889504660c61aefbeeb36c33daa18f66ed3a1a46a63a938bea4f",
     "kind": "Jetton",
-    "active": 1734091200
+    "active": 1734091200,
+    "dex": "STONFI"
   },
   {
     "id": 3,
@@ -48,7 +52,8 @@
     "symbol": "jUSDT",
     "logo": "https://asset.ston.fi/img/EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA/9ab5955f640f6831920ab698faf2ff45e6f4a6540532bf52b59e404035659d8b",
     "kind": "Jetton",
-    "active": 1732986000
+    "active": 1732986000,
+    "dex": "STONFI"
   },
 
   {
@@ -59,7 +64,8 @@
     "symbol": "USD₮",
     "logo": "https://asset.ston.fi/img/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs/4e46a4531effd7cdf5e733b964fd408438f4218ab4fd5288e860014e6966d4aa",
     "kind": "Jetton",
-    "active": 1732986000
+    "active": 1732986000,
+    "dex": "STONFI"
   },
   {
     "id": 5,
@@ -69,7 +75,8 @@
     "symbol": "NOT",
     "logo": "https://asset.ston.fi/img/EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT/f3c5754e0650babbaf9e137e5e15755ca0df79c676e54098f8ed71d215f0f096",
     "kind": "Jetton",
-    "active": 1732986000
+    "active": 1732986000,
+    "dex": "STONFI"
   },
   {
     "id": 6,
@@ -79,7 +86,8 @@
     "symbol": "MAJOR",
     "logo": "https://asset.ston.fi/img/EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR/39d250281272456c3157e7c801b2f8e289eac4680a7f4194ae059916e5485444",
     "kind": "Jetton",
-    "active": 1732986000
+    "active": 1732986000,
+    "dex": "STONFI"
   },
   {
     "id": 7,
@@ -89,7 +97,8 @@
     "symbol": "DOGS",
     "logo": "https://asset.ston.fi/img/EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS/8d05e477b899921d90f041fc127c468e7333b81c58ba7f43b3470631816e5738",
     "kind": "Jetton",
-    "active": 1733158800
+    "active": 1733158800,
+    "dex": "STONFI"
   },
   {
     "id": 8,
@@ -99,7 +108,8 @@
     "symbol": "CATI",
     "logo": "https://asset.ston.fi/img/EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7/bd3096abb5f3b259f763be8d47bdc4605237cb587123749e82f9bac36b84f7ea",
     "kind": "Jetton",
-    "active": 1733245200
+    "active": 1733245200,
+    "dex": "STONFI"
   },
   {
     "id": 9,
@@ -109,7 +119,8 @@
     "symbol": "HMSTR",
     "logo": "https://asset.ston.fi/img/EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo/7921dea882257a5f5df2c1ef082df3904d648078b7b4536203dfa729bafd9b91",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 10,
@@ -119,7 +130,8 @@
     "symbol": "REDO",
     "logo": "https://asset.ston.fi/img/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko/bdccc8bee5f07e419ab6f36d8d08b1503b574e8ea0f7fdc6afc63cc3bf2f6f70",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 11,
@@ -129,7 +141,8 @@
     "symbol": "MKAT",
     "logo": "https://asset.ston.fi/img/EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_/7a226ba04d7d3bfd00fda3ffc339e43a7fdf754be42f2abc0cc0c138d42a3cb9",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 12,
@@ -139,7 +152,8 @@
     "symbol": "COSA",
     "logo": "https://asset.ston.fi/img/EQCPqhGBZCOtQUZx-k5DcEGp5XQZkdfQOUfqWK6Z0Lo6vdw7/435db99d960a1f15545270733bf17b33e152f7e4251a278d9fcaa95f215d4338",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 13,
@@ -149,7 +163,8 @@
     "symbol": "DARK",
     "logo": "https://asset.ston.fi/img/EQB_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3/bf1610c5748061b600b4890eaba824680ca8e2d4d4821bdd9152ab6cf77c7d07",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 14,
@@ -159,7 +174,8 @@
     "symbol": "USACH",
     "logo": "https://asset.ston.fi/img/EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB/49a88c40eacd4d5d889d9f6eb642a7d89685222f5ef4d26c9047f639e7c7df05",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 15,
@@ -169,7 +185,8 @@
     "symbol": "VILARSO",
     "logo": "https://asset.ston.fi/img/EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d/d2f56f008b20cd386ce658fc3c0bcb49d7e2770f11b66f762fc0b9b336b58e3f",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 16,
@@ -179,7 +196,8 @@
     "symbol": "TVM",
     "logo": "https://asset.ston.fi/img/EQAhmDhWMKE_eZX0lO3mx5JSQc-W2O-IlQ7BaXLMioyeEzT1/874903bc1269129df51d7e79eb334da844d4a72b695757b8dc4a6032d2bce942",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 17,
@@ -189,7 +207,8 @@
     "symbol": "LIQUID",
     "logo": "https://asset.ston.fi/img/EQA20ynxJzJrhahBncnTdWu87NNkuKL_T81DAGmihpIDdWsA/4a7caeffb7d7b71fe9af81f9b7067a7203f41a3f2e5cb625e44f8f4ba03ce330",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 18,
@@ -199,7 +218,8 @@
     "symbol": "UWU",
     "logo": "https://asset.ston.fi/img/EQAbEut7rrUaSmkNuG8sfPmqtwTLdmszL-lnQijmCXiLQ5O9/3fbd7b7f03c4b889082940c6fb4fc5e207c437902dcf68d632a8a38b5a6459ae",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 19,
@@ -209,7 +229,8 @@
     "symbol": "OKO",
     "logo": "https://asset.ston.fi/img/EQA44OGUEsdesnOQ_Ws3BKiAwpRrm9Ai5T_2jI9My6p6Eu3-/b55b7ef181c2cf2b5723e603b74d8c9b36ede989305cdbfde5e77f4a9014e8dd",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 20,
@@ -219,7 +240,8 @@
     "symbol": "DRAGO",
     "logo": "https://asset.ston.fi/img/EQAZzvY6tSq2IghR8S3mXgc387Wl6yX54MVQdnFJ2EHQ94CB/df499c95a6e15c869b7791efb18ccb9278a997d01ad89b038c7ccc9586fd0c78",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 21,
@@ -229,7 +251,8 @@
     "symbol": "TETRIX",
     "logo": "https://asset.ston.fi/img/EQC-OHxhI9r5ojKf6QMLFjhQrKoawN1thhHFCvImINhfK40C/1d2a247a49edabacca2a278bdf54abe92ec96d1fac96bcf99b0299d97a1dd2e7",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 22,
@@ -239,7 +262,8 @@
     "symbol": "PUMPCORN",
     "logo": "https://asset.ston.fi/img/EQBsTwY-0y5e1i6eVLklvkLwS2QJMllwWP7c4uq0ni6qxAvE/8b7ca59e4d7b59fa9581b4c1e36df4929a27660f251f13c6adb15664676026d6",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 23,
@@ -249,7 +273,8 @@
     "symbol": "MCOM",
     "logo": "https://asset.ston.fi/img/EQCivShe-nigManAil8iRxwKsp74cA0q0a00kmPBtLfRHQgB/33f02ce10ce9d0c7ff85f472e1a6432d9b3871f8a9d0523eee8f0603f445dffc",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 24,
@@ -259,7 +284,8 @@
     "symbol": "SW",
     "logo": "https://asset.ston.fi/img/EQBgI-rl6SzhJp5Rtoqg0JlWsgPH4rnVkU6EAnD1yvOuzMPG/f136e3766487c20c2a9ed48a3ef1fca9d8963841d1b9a1650ac234df5a0a7451",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 25,
@@ -269,7 +295,8 @@
     "symbol": "BANC",
     "logo": "https://asset.ston.fi/img/EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2/63e3cbe2463f3f37d363ba8efba8621f7139ef635fa8526647aca3c6e5b10172",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 28,
@@ -279,7 +306,8 @@
     "symbol": "CHLOE",
     "logo": "https://asset.ston.fi/img/EQCQoiC8ss0QIjpTz-RI89OzmyXxxt0CTOsGueRd9Vp-0Dy8/d95255b5036133c479394af9793f1273cc226f226183232638d6ed1b26c844e1",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 29,
@@ -289,7 +317,8 @@
     "symbol": "ALIVE",
     "logo": "https://asset.ston.fi/img/EQAlKuU3JVwD1BcsSqLfigW75kbtPxnpo6Uur4GjBvSfgTTD/ee2585461154f6dbfd048946ea3c162a48b39ccbf4041f129ccdf008bef637b5",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 30,
@@ -299,7 +328,8 @@
     "symbol": "FPIBANK",
     "logo": "https://asset.ston.fi/img/EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz/1e2290db5683971fd4d63e4698697596da7f39dd54d62613f06ca2baa7445b8d",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 31,
@@ -309,7 +339,8 @@
     "symbol": "BARK47",
     "logo": "https://asset.ston.fi/img/EQBgjnb8FVAHlxqt79uImpEDzkVN8vvQ67hobyUsh-T7CEUg/5e581a7a038ae88f172c30983cbef1159cab8c481cec821f480bc3aa46c0eda7",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 32,
@@ -319,7 +350,8 @@
     "symbol": "FROY",
     "logo": "https://asset.ston.fi/img/EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd/b9554be0144bcb58d08986668c045d0022f2b306610b09f4cfb7be1ff67da68b",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
   },
   {
     "id": 33,
@@ -329,6 +361,18 @@
     "symbol": "APHBT",
     "logo": "https://asset.ston.fi/img/EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P/5071dc0784d51d9c43a5db1bb7e80d38ebfed7606770c4598912cdebcf979323",
     "kind": "Jetton",
-    "active": 1733331600
+    "active": 1733331600,
+    "dex": "STONFI"
+  },
+  {
+    "id": 34,
+    "contract": "EQDgx6k9B27D_-ccmbrho2a1teb0hfgJekZYZiRJmRLm5q_j",
+    "name": "TELEMON",
+    "searchSymbol": "TELEMON",
+    "symbol": "TELEMON",
+    "logo": "https://assets.dedust.io/images/telemon.webp",
+    "kind": "Jetton",
+    "active": 1746310290,
+    "dex": "DEDUST"
   }
 ]
