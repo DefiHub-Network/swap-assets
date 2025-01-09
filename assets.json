@@ -375,6 +375,20 @@
     "logo": "https://assets.dedust.io/images/telemon.webp",
     "kind": "Jetton",
     "active": 1746310290,
+    "slippage": 5,
+    "dex": "DEDUST"
+  },
+  {
+    "id": 35,
+    "contract": "EQAYObSAEunbFFxpJC9OHSm6PMlBNbNns7KvcuRRuEB8bIQI",
+    "jetton": "jetton:0:1839b48012e9db145c69242f4e1d29ba3cc94135b367b3b2af72e451b8407c6c",
+    "name": "ALEN",
+    "searchSymbol": "ALEN",
+    "symbol": "ALEN",
+    "logo": "https://dd.dexscreener.com/ds-data/tokens/ton/eqayobsaeunbffxpjc9ohsm6pmlbnbnns7kvcurrueb8biqi.png?size=lg&key=e19227",
+    "kind": "Jetton",
+    "active": 1746310290,
+    "slippage": 5,
     "dex": "DEDUST"
   }
 ]
