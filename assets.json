@@ -375,7 +375,7 @@
     "logo": "https://assets.dedust.io/images/telemon.webp",
     "kind": "Jetton",
     "active": 1746310290,
-    "slippage": 5,
+    "slippage": 2,
     "dex": "DEDUST"
   },
   {
@@ -388,7 +388,20 @@
     "logo": "https://dd.dexscreener.com/ds-data/tokens/ton/eqayobsaeunbffxpjc9ohsm6pmlbnbnns7kvcurrueb8biqi.png?size=lg&key=e19227",
     "kind": "Jetton",
     "active": 1746310290,
-    "slippage": 5,
+    "slippage": 2,
+    "dex": "DEDUST"
+  },
+  {
+    "id": 36,
+    "contract": "EQAFTzNeHcyBwO8IPvvOpi6V_n4B6O5P5keLq2xE4s8j9w4c",
+    "jetton": "jetton:0:054f335e1dcc81c0ef083efbcea62e95fe7e01e8ee4fe6478bab6c44e2cf23f7",
+    "name": "SAIYAN",
+    "searchSymbol": "SAIYAN",
+    "symbol": "SAIYAN",
+    "logo": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaftznehcybwo8ipvvopi6v_n4b6o5p5kelq2xe4s8j9w4c.png?size=lg&key=f4ae3d",
+    "kind": "Jetton",
+    "active": 1746310290,
+    "slippage": 2,
     "dex": "DEDUST"
   }
 ]
