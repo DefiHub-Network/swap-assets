@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "contract": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
     "jetton": "native",
     "name": "TON",
@@ -12,7 +11,42 @@
     "dex": "NATIVE"
   },
   {
-    "id": 2,
+    "contract": "EQDgx6k9B27D_-ccmbrho2a1teb0hfgJekZYZiRJmRLm5q_j",
+    "jetton": "jetton:0:e0c7a93d076ec3ffe71c99bae1a366b5b5e6f485f8097a46586624499912e6e6",
+    "name": "TELEMON",
+    "searchSymbol": "TELEMON",
+    "symbol": "TELEMON",
+    "logo": "https://assets.dedust.io/images/telemon.webp",
+    "kind": "Jetton",
+    "active": 1746310290,
+    "slippage": 2,
+    "dex": "DEDUST"
+  },
+  {
+    "contract": "EQAYObSAEunbFFxpJC9OHSm6PMlBNbNns7KvcuRRuEB8bIQI",
+    "jetton": "jetton:0:1839b48012e9db145c69242f4e1d29ba3cc94135b367b3b2af72e451b8407c6c",
+    "name": "ALEN",
+    "searchSymbol": "ALEN",
+    "symbol": "ALEN",
+    "logo": "https://dd.dexscreener.com/ds-data/tokens/ton/eqayobsaeunbffxpjc9ohsm6pmlbnbnns7kvcurrueb8biqi.png?size=lg&key=e19227",
+    "kind": "Jetton",
+    "active": 1746310290,
+    "slippage": 2,
+    "dex": "DEDUST"
+  },
+  {
+    "contract": "EQAFTzNeHcyBwO8IPvvOpi6V_n4B6O5P5keLq2xE4s8j9w4c",
+    "jetton": "jetton:0:054f335e1dcc81c0ef083efbcea62e95fe7e01e8ee4fe6478bab6c44e2cf23f7",
+    "name": "SAIYAN",
+    "searchSymbol": "SAIYAN",
+    "symbol": "SAIYAN",
+    "logo": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaftznehcybwo8ipvvopi6v_n4b6o5p5kelq2xe4s8j9w4c.png?size=lg&key=f4ae3d",
+    "kind": "Jetton",
+    "active": 1746310290,
+    "slippage": 2,
+    "dex": "DEDUST"
+  },
+  {
     "contract": "EQA0bQJSzqWkJ2p4szQpY7QWag2BoHNQQOalps7paHPXyvDF",
     "name": "COCO",
     "searchSymbol": "COCO",
@@ -23,7 +57,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 26,
     "contract": "EQDH6F8bXL_ZQtT9zfYZinT2NhsrcXa1VI5koO98slz8rNjs",
     "name": "FishUP",
     "searchSymbol": "FISHUP",
@@ -35,7 +68,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 27,
     "contract": "EQCRWpQQmfSglpLp6D5Xebix50AStBxjfQQNkssFP_IsiQc3",
     "name": "PinGo",
     "searchSymbol": "PINGO",
@@ -46,7 +78,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 3,
     "contract": "EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA",
     "name": "Tether USD",
     "searchSymbol": "jUSDT",
@@ -58,7 +89,6 @@
   },
 
   {
-    "id": 4,
     "contract": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
     "name": "Tether USD",
     "searchSymbol": "USDT",
@@ -69,7 +99,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 5,
     "contract": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
     "name": "Notcoin",
     "searchSymbol": "NOT",
@@ -80,7 +109,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 6,
     "contract": "EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR",
     "name": "Major",
     "searchSymbol": "MAJOR",
@@ -91,7 +119,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 7,
     "contract": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
     "name": "Dogs",
     "searchSymbol": "DOGS",
@@ -102,7 +129,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 8,
     "contract": "EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7",
     "name": "Catizen",
     "searchSymbol": "CATI",
@@ -113,7 +139,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 9,
     "contract": "EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo",
     "name": "Hamster Kombat",
     "searchSymbol": "HMSTR",
@@ -124,7 +149,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 10,
     "contract": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
     "name": "Resistance Dog",
     "searchSymbol": "REDO",
@@ -135,7 +159,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 11,
     "contract": "EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_",
     "name": "Memeerkat",
     "searchSymbol": "MKAT",
@@ -146,7 +169,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 12,
     "contract": "EQCPqhGBZCOtQUZx-k5DcEGp5XQZkdfQOUfqWK6Z0Lo6vdw7",
     "name": "COSA NOSTRA",
     "searchSymbol": "COSA",
@@ -157,7 +179,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 13,
     "contract": "EQB_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3",
     "name": "Dark",
     "searchSymbol": "DARK",
@@ -168,7 +189,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 14,
     "contract": "EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB",
     "name": "Us Usach",
     "searchSymbol": "USACH",
@@ -179,7 +199,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 15,
     "contract": "EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d",
     "name": "Vilarso",
     "searchSymbol": "VILARSO",
@@ -190,7 +209,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 16,
     "contract": "EQAhmDhWMKE_eZX0lO3mx5JSQc-W2O-IlQ7BaXLMioyeEzT1",
     "name": "TVM",
     "searchSymbol": "TVM",
@@ -201,7 +219,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 17,
     "contract": "EQA20ynxJzJrhahBncnTdWu87NNkuKL_T81DAGmihpIDdWsA",
     "name": "LIQUIDATION",
     "searchSymbol": "LIQUID",
@@ -212,7 +229,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 18,
     "contract": "EQAbEut7rrUaSmkNuG8sfPmqtwTLdmszL-lnQijmCXiLQ5O9",
     "name": "ForU AI",
     "searchSymbol": "UWU",
@@ -223,7 +239,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 19,
     "contract": "EQA44OGUEsdesnOQ_Ws3BKiAwpRrm9Ai5T_2jI9My6p6Eu3-",
     "name": "cryptoOKO",
     "searchSymbol": "OKO",
@@ -234,7 +249,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 20,
     "contract": "EQAZzvY6tSq2IghR8S3mXgc387Wl6yX54MVQdnFJ2EHQ94CB",
     "name": "🔴🟢Triggered DRAGO",
     "searchSymbol": "DRAGO",
@@ -245,7 +259,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 21,
     "contract": "EQC-OHxhI9r5ojKf6QMLFjhQrKoawN1thhHFCvImINhfK40C",
     "name": "TETRIX",
     "searchSymbol": "TETRIX",
@@ -267,7 +280,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 23,
     "contract": "EQCivShe-nigManAil8iRxwKsp74cA0q0a00kmPBtLfRHQgB",
     "name": "Mihaylets Community",
     "searchSymbol": "MCOM",
@@ -278,7 +290,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 24,
     "contract": "EQBgI-rl6SzhJp5Rtoqg0JlWsgPH4rnVkU6EAnD1yvOuzMPG",
     "name": "SuperWonton",
     "searchSymbol": "SW",
@@ -289,7 +300,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 25,
     "contract": "EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2",
     "name": "BananaCycle",
     "searchSymbol": "BANC",
@@ -300,7 +310,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 28,
     "contract": "EQCQoiC8ss0QIjpTz-RI89OzmyXxxt0CTOsGueRd9Vp-0Dy8",
     "name": "Chloe",
     "searchSymbol": "CHLOE",
@@ -311,7 +320,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 29,
     "contract": "EQAlKuU3JVwD1BcsSqLfigW75kbtPxnpo6Uur4GjBvSfgTTD",
     "name": "AliveBoard",
     "searchSymbol": "ALIVE",
@@ -322,7 +330,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 30,
     "contract": "EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz",
     "name": "FPI Bank",
     "searchSymbol": "FPIBANK",
@@ -333,7 +340,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 31,
     "contract": "EQBgjnb8FVAHlxqt79uImpEDzkVN8vvQ67hobyUsh-T7CEUg",
     "name": "Mr. Bark President",
     "searchSymbol": "BARK47",
@@ -344,7 +350,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 32,
     "contract": "EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd",
     "name": "SOKOROCKET",
     "searchSymbol": "FROY",
@@ -355,7 +360,6 @@
     "dex": "STONFI"
   },
   {
-    "id": 33,
     "contract": "EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P",
     "name": "AiPhABeT",
     "searchSymbol": "APHBT",
@@ -364,44 +368,5 @@
     "kind": "Jetton",
     "active": 1733331600,
     "dex": "STONFI"
-  },
-  {
-    "id": 34,
-    "contract": "EQDgx6k9B27D_-ccmbrho2a1teb0hfgJekZYZiRJmRLm5q_j",
-    "jetton": "jetton:0:e0c7a93d076ec3ffe71c99bae1a366b5b5e6f485f8097a46586624499912e6e6",
-    "name": "TELEMON",
-    "searchSymbol": "TELEMON",
-    "symbol": "TELEMON",
-    "logo": "https://assets.dedust.io/images/telemon.webp",
-    "kind": "Jetton",
-    "active": 1746310290,
-    "slippage": 2,
-    "dex": "DEDUST"
-  },
-  {
-    "id": 35,
-    "contract": "EQAYObSAEunbFFxpJC9OHSm6PMlBNbNns7KvcuRRuEB8bIQI",
-    "jetton": "jetton:0:1839b48012e9db145c69242f4e1d29ba3cc94135b367b3b2af72e451b8407c6c",
-    "name": "ALEN",
-    "searchSymbol": "ALEN",
-    "symbol": "ALEN",
-    "logo": "https://dd.dexscreener.com/ds-data/tokens/ton/eqayobsaeunbffxpjc9ohsm6pmlbnbnns7kvcurrueb8biqi.png?size=lg&key=e19227",
-    "kind": "Jetton",
-    "active": 1746310290,
-    "slippage": 2,
-    "dex": "DEDUST"
-  },
-  {
-    "id": 36,
-    "contract": "EQAFTzNeHcyBwO8IPvvOpi6V_n4B6O5P5keLq2xE4s8j9w4c",
-    "jetton": "jetton:0:054f335e1dcc81c0ef083efbcea62e95fe7e01e8ee4fe6478bab6c44e2cf23f7",
-    "name": "SAIYAN",
-    "searchSymbol": "SAIYAN",
-    "symbol": "SAIYAN",
-    "logo": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaftznehcybwo8ipvvopi6v_n4b6o5p5kelq2xe4s8j9w4c.png?size=lg&key=f4ae3d",
-    "kind": "Jetton",
-    "active": 1746310290,
-    "slippage": 2,
-    "dex": "DEDUST"
   }
 ]
