@@ -11,6 +11,18 @@
     "dex": "NATIVE"
   },
   {
+    "contract": "EQCZIf-3kWHlwfEESwonUUXIRHfJbaMjsFdbhEl33XHfVtnH",
+    "jetton": "jetton:0:9921ffb79161e5c1f1044b0a275145c84477c96da323b0575b844977dd71df56",
+    "name": "MELANIA",
+    "searchSymbol": "MELANIA",
+    "symbol": "MELANIA",
+    "logo": "https://cache.tonapi.io/imgproxy/4sUO-rnxMWQrJ-WmmfOQLc8cMESOiez4FxePBQKZL1U/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tY3JjZG4uYmxvYi5jb3JlLndpbmRvd3MubmV0L3BvaW50L21lbGFuaWEuanBn.webp",
+    "kind": "Jetton",
+    "active": 1746310290,
+    "slippage": 2,
+    "dex": "DEDUST"
+  },
+  {
     "contract": "EQDgx6k9B27D_-ccmbrho2a1teb0hfgJekZYZiRJmRLm5q_j",
     "jetton": "jetton:0:e0c7a93d076ec3ffe71c99bae1a366b5b5e6f485f8097a46586624499912e6e6",
     "name": "TELEMON",
