@@ -11,12 +11,12 @@
     "dex": "NATIVE"
   },
   {
-    "contract": "EQCZIf-3kWHlwfEESwonUUXIRHfJbaMjsFdbhEl33XHfVtnH",
-    "jetton": "jetton:0:9921ffb79161e5c1f1044b0a275145c84477c96da323b0575b844977dd71df56",
-    "name": "MELANIA",
-    "searchSymbol": "MELANIA",
-    "symbol": "MELANIA",
-    "logo": "https://cache.tonapi.io/imgproxy/4sUO-rnxMWQrJ-WmmfOQLc8cMESOiez4FxePBQKZL1U/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tY3JjZG4uYmxvYi5jb3JlLndpbmRvd3MubmV0L3BvaW50L21lbGFuaWEuanBn.webp",
+    "contract": "EQDK-S4ML5ttH6haxxsVPd0BLD5spj94fkJdMkxmxBuYYaka",
+    "jetton": "jetton:0:caf92e0c2f9b6d1fa85ac71b153ddd012c3e6ca63f787e425d324c66c41b9861",
+    "name": "TONHOLDER",
+    "searchSymbol": "TONHOLDER",
+    "symbol": "TONHOLDER",
+    "logo": "https://cache.tonapi.io/imgproxy/YR36AT8RXjInFA4c5u2OuChXyd548EKEYOFzQe09wtc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9uaWtjZG4uYmxvYi5jb3JlLndpbmRvd3MubmV0L2dpZnQvVE9OSE9MREVSX1RPS0VOLnBuZw.webp",
     "kind": "Jetton",
     "active": 1746310290,
     "slippage": 2,
